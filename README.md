@@ -1,4 +1,6 @@
 ﻿# gharpayy
+ FOR FRONTEND--- npm start
+ FOR BACKEND--- npx nodemon server.js
 created frontend and backend
 # Gharpayy Lead Management CRM (MVP)
 
@@ -133,3 +135,4 @@ Future improvements could include:
 ### Backend
 
 <img width="1892" height="956" alt="image" src="https://github.com/user-attachments/assets/c2c0a65d-4034-41c6-aa3f-68e18690f386" />
+
